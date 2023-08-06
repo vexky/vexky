@@ -19,6 +19,5 @@ class Profile(vexky):
             'proh > 🥇': = ['python']
             'medium > 👌': = ['html']
             'trash > 🗑️': = ['java, golang'] 
-        }
-        
+        }  
 ```
